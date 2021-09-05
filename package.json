@@ -25,5 +25,13 @@
     "babel-cli": "^6.26.0",
     "babel-preset-env": "^1.7.0",
     "nodemon": "^2.0.12"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/atiqisrak/ChatBOT.git"
+  },
+  "bugs": {
+    "url": "https://github.com/atiqisrak/ChatBOT/issues"
+  },
+  "homepage": "https://github.com/atiqisrak/ChatBOT#readme"
 }
